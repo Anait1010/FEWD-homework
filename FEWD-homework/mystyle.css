@@ -1,0 +1,16 @@
+
+body {
+	   background: linear-gradient(to bottom, #ffcccc 0%, #ff9933 100%);
+	  }
+	   img {
+	border-radius: 50%;
+	height:250px;
+	width: 250px;
+	float:left;
+}
+h1, #title {
+text-align: center;
+}
+h1, h2, h3 {
+	font-family: Noteworthy;
+}

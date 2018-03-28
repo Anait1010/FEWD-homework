@@ -1,1 +1,131 @@
-	
+
+body {
+	padding: 150px 300px;
+	}
+.border {
+	border: 1px solid black;
+	padding: 1px;
+}
+header {
+	background-image: url("images/header_bg.jpg");
+	background-size: 620px 370px;	
+	padding: 15px;
+	}
+#button {
+	background-color: #f9e42e;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    padding: 7px 40px;
+    margin-left: 220px;
+    margin-top: 20px; 
+    margin-bottom: 130px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    font-family: "Extra bold";
+	}
+h1 {
+	font-family: "Extra bold";
+	font-size: 24px;
+	color: white;
+	margin-top: 0px;
+	padding-left: 40px;
+
+	}
+h2 {
+	font-family: "Semibold";
+	font-size: 24px;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	}
+
+#benefits {
+	background-color: #f0efef;
+	background-size: 500px 300px;
+	padding: 50px;
+	}
+h3 {
+	font-family: "Semibold";
+	font-size: 20px;
+	}
+p, li {
+	font-family: "Light";
+	font-size: 13px;
+	}
+	/*.quote {
+	background-size: 720px 400px;
+	padding: 90px
+	margin: 40px;
+	}*/
+blockquote {
+	background-image: url("images/testimonial_bg.jpg");
+	color: white;
+	font-family: "Light Italic";
+	font-size: 18px;
+	background-size: 720px 400px;
+	padding: 50px;
+	margin-top: 0.1px;
+	margin-right: 0.1px;
+	margin-left: 0.1px;
+	margin-bottom: 0.1px;
+	text-align: center;
+}
+span {
+	font-family: "Semibold";
+	font-size: 18px;
+}
+#sign {
+	background-color: #033048;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 10px 40px;
+    margin-left: 220px;
+    margin-top: 7px; 
+    margin-bottom: 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    font-family: "Extra bold";
+}
+.signbutton {
+	background-color: #f9e42e;
+	padding: 7px;
+}
+footer {
+	background-color: #121212;
+	text-align: center;
+	background-size: 300px 150px;
+	padding: 15px;
+}
+h4 {
+	font-family: "Extra bold";
+	font-size: 24px;
+	color: #f9e42e;
+}
+.social li {
+	display: inline;
+	padding: 15px;
+	text-align: center;
+}
+.twitter {
+	width: 18px;
+	height: 17px;
+}
+.facebook {
+	height: 17px;
+	width: 9px;
+}
+.copyright {
+	color: white;
+	font-family: "Semibold";
+	font-size: 9px;
+}
+.container {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}

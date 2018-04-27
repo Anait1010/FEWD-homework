@@ -91,6 +91,7 @@ font-weight: 600;
   font-weight: 600;
   margin-top: 30px;
   text-decoration: none;
+  display: block;
   }
 
 .sidebar {
